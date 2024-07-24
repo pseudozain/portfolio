@@ -102,7 +102,7 @@ Xpensie empowers you to take control of your finances with ease. This intuitive 
   <img 
     src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie1.PNG"
     width="230" 
-    title="Card"
+    title="Home"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie2.PNG" 
@@ -112,7 +112,7 @@ Xpensie empowers you to take control of your finances with ease. This intuitive 
   <img 
     src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie3.PNG" 
     width="230"
-    title="Home"
+    title="Add expense"
     >
 </p>
 
