@@ -27,7 +27,6 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 - Created a micro frontend app for testing the feature module, which reduced the feature testing time by 35%.
 - Automated iOS app CI/CD workflows with GitHub Actions and Bitrise, improving feature delivery time by 20%.
 - Introduced a common module with Kotlin Multiplatform for analytics events, reducing discrepancies between iOS and Android by 95%.
-- Contributed to the development of the SadaPay iOS app, which attracted over one million users within its first year and began processing millions of transactions each month.
 - Implemented MVVM modular architecture for an iOS project, reducing release friction, enabling independent squad work, and ensuring pipeline stability.
 - Implemented UI test structure using SBUITestTunnel, reducing QA dependency by 90% and accelerating the application delivery process by 75%.
 - Collaborated with the team to customize the OpenAPI generator, streamlining API contracts across platforms and eliminating 100% discrepancies across all platforms, which significantly improved product quality.
