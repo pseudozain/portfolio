@@ -3,6 +3,24 @@ I am a seasoned Mobile App Developer with over 10 years of expertise in Swift an
 # [SadaPay: Money made simple](https://apps.apple.com/pk/app/sadapay-money-made-simple/id1543848524)
 SadaPay offers a seamless digital wallet and Mastercard virtual debit card experience, enabling users to manage money confidently without hidden fees. The application allows users to spend, send, and request payments with zero fees, and use their SadaPay card internationally both online and in-person with the lowest foreign exchange rates. Integrated with Raast, SadaPay facilitates fast, fee-free transactions using an account number or IBAN. Designed with freelancers in mind, the SadaBiz account enables Pakistani freelancers to receive international payments up to 900,000 PKR per month at the best exchange rates, with the option to retain earnings in USD. Users can transfer funds instantly without SMS or email OTPs, and pay over 900 billers, including utilities and phone networks, seamlessly. Security is paramount, with biometric access, encryption, and numberless cards ensuring user data and funds are safe. SadaPay also offers 24/7 in-app live chat support available in English, Urdu, and Emoji, along with easy account control options.
 
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_1.PNG"
+    width="230" 
+    title="Personal dashboard"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_2.PNG" 
+    width="230"
+    title="Business dashboard"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_3.PNG" 
+    width="230"
+    title="Pay your bills"
+    >
+</p>
+
 ### My role
 - Led the development of the invoicing feature in the SadaPay app for iOS and Android, which started processing over a million dollars within first year of the product launch.
 - Built a high-quality product with 97% code coverage via unit testing and 100% feature coverage through UI testing, with extreme programming practices such as TDD, Trunk-Based Development, Ping Pong Programming.
@@ -16,7 +34,3 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 
 ### Technologies
 `eXtreme Programming`, `Test-Driven Development`, `Ping Pong Programming`, `Mobing`, `Continuous Integration (CI)`, `Continuous Delivery (CD)`, `Unit Testing` `UI Testing`, `Swift`, `MVVM Model view view-model`, `Github Actions`, `Bitrise`, `Modular architecture`
-
-<p align="center">
-<img src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_1.PNG" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_2.PNG" width="230" title="Pay">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_3.PNG" width="230" title="Upcoming">
-</p>
