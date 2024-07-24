@@ -96,3 +96,33 @@ YAP redefines digital banking, offering a seamless and feature-rich experience. 
 ### Technologies
 `Swift` `MVVM (Model View View-Model)` `RxSwift` `Modular architecture` `Core ML` `Machine Learning`
 
+# [Xpensie: Manage your expenses](https://apps.apple.com/us/app/xpensie-manage-your-expenses/id6523422047)
+Xpensie empowers you to take control of your finances with ease. This intuitive expense management solution allows you to manage your budgets, track expenses, and gain valuable insights with comprehensive analytics. With Xpensie, you can create main budgets and detailed sub-budgets, customize expense categories to fit your unique spending habits, and visualize your expenses with detailed bar and pie charts. The flexible date range feature lets you analyze your spending over different periods, such as weekly, monthly, or yearly. Designed with a user-friendly interface, Xpensie ensures managing your finances is simple and stress-free, helping you save smarter and understand your spending patterns more effectively.
+
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie1.PNG"
+    width="230" 
+    title="Card"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie2.PNG" 
+    width="230"
+    title="Analytics"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie3.PNG" 
+    width="230"
+    title="Home"
+    >
+</p>
+
+### Contributions
+- Led the development of the project from inception to delivery, contributing to all phases including research, design, implementation, and deployment.
+- Ensured high-quality code by maintaining unit test coverage above 90% from the project's inception through to its completion, continuously integrating comprehensive test cases to uphold robust software reliability and performance.
+- Utilized CoreData and CloudKit to store and sync data across users' devices, ensuring a seamless app experience without the need for external APIs.
+- Implemented a CI/CD pipeline using Xcode Cloud, significantly enhancing the developer experience by providing a more integrated and efficient solution compared to third-party CI/CD tools.
+
+### Technologies
+`Swift` `MVVM (Model View View-Model)` `CoreData` `CloudKit` `Modular architecture` `Unit testing` `Continuous Integration (CI)` `Continuous Delivery (CD)`
+
