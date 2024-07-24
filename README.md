@@ -33,4 +33,4 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 - Collaborated with the team to customize the OpenAPI generator, streamlining API contracts across platforms and eliminating 100% discrepancies across all platforms, which significantly improved product quality.
 
 ### Technologies
-`eXtreme Programming`, `Test-Driven Development`, `Ping Pong Programming`, `Mobing`, `Continuous Integration (CI)`, `Continuous Delivery (CD)`, `Unit Testing` `UI Testing`, `Swift`, `MVVM Model view view-model`, `Github Actions`, `Bitrise`, `Modular architecture`
+`eXtreme Programming` `Test-Driven Development` `Ping Pong Programming` `Mobing` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `MVVM Model view view-model` `Github Actions` `Bitrise` `Modular architecture`
