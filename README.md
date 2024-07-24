@@ -21,7 +21,7 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
     >
 </p>
 
-### My role
+### Contributions
 - Led the development of the invoicing feature in the SadaPay app for iOS and Android, which started processing over a million dollars within first year of the product launch.
 - Built a high-quality product with 97% code coverage via unit testing and 100% feature coverage through UI testing, with extreme programming practices such as TDD, Trunk-Based Development, Ping Pong Programming.
 - Created a micro frontend app for testing the feature module, which reduced the feature testing time by 35%.
@@ -33,4 +33,34 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 - Collaborated with the team to customize the OpenAPI generator, streamlining API contracts across platforms and eliminating 100% discrepancies across all platforms, which significantly improved product quality.
 
 ### Technologies
-`eXtreme Programming` `Test-Driven Development` `Ping Pong Programming` `Mobing` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `MVVM Model view view-model` `Github Actions` `Bitrise` `Modular architecture`
+`eXtreme Programming` `Test-Driven Development` `Ping Pong Programming` `Mobing` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `MVVM Model view view-model` `Github Actions` `Bitrise` `Modular architecture` `Kotling Multiplatform (KMM)`
+
+# [foodpanda: Food & Groceries](https://apps.apple.com/us/app/foodpanda-food-groceries/id758103884)
+FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowing you to live like a panda with convenience and ease. Whether you're craving comfort food from your favorite restaurant or dreading another grocery trip, FoodPanda has you covered. The app brings food and groceries right to your door, letting you focus on the things you love while we take care of your meals with the best deals. With a vast selection of restaurants, from big famous brands to tiny local favorites, FoodPanda satisfies all your cravings with exclusive discounts and promos for new users. FoodPanda stands out by offering a user-friendly experience where you can quickly reorder your favorite meals, explore personalized offers, and enjoy exclusive deals. Our technology is designed to cater to your preferences, making your food and grocery shopping experience as seamless and enjoyable as possible.
+
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda1.PNG"
+    width="230" 
+    title="Personal dashboard"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda2.PNG" 
+    width="230"
+    title="Business dashboard"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda3.PNG" 
+    width="230"
+    title="Pay your bills"
+    >
+</p>
+
+### Contributions
+- Played a key role in developing and refining the Customer Wallet feature for the FoodPanda iOS app, which is utilized by millions of users daily.
+- Enhanced the Customer Wallet product, built on VIPER architecture, by increasing test coverage from 40% to 90%. This improvement led to a 30% reduction in QA time and significantly boosted overall product reliability.
+- Introduced Test-Driven Development (TDD) practices to fellow iOS engineers in the squad, helping to maintain high product quality while consistently meeting feature delivery deadlines.
+- Optimized the CI/CD pipeline for the module using GitHub Actions, reducing build time by 15% and enhancing workflow efficiency.
+
+### Technologies
+`Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `VIPER` `Github Actions` `Modular architecture`
