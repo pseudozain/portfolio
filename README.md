@@ -5,17 +5,17 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 
 <p align="center">
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_1.PNG"
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay1.PNG"
     width="230" 
     title="Personal dashboard"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_2.PNG" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay2.PNG" 
     width="230"
     title="Business dashboard"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay_3.PNG" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/sadapay3.PNG" 
     width="230"
     title="Pay your bills"
     >
@@ -33,7 +33,7 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 - Collaborated with the team to customize the OpenAPI generator, streamlining API contracts across platforms and eliminating 100% discrepancies across all platforms, which significantly improved product quality.
 
 ### Technologies
-`eXtreme Programming` `Test-Driven Development` `Ping Pong Programming` `Mobing` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `MVVM Model view view-model` `Github Actions` `Bitrise` `Modular architecture` `Kotling Multiplatform (KMM)`
+`eXtreme Programming` `Test-Driven Development` `Ping Pong Programming` `Mobing` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `MVVM (Model View View-Model)` `Github Actions` `Bitrise` `Modular architecture` `Kotling Multiplatform (KMM)`
 
 # [foodpanda: Food & Groceries](https://apps.apple.com/us/app/foodpanda-food-groceries/id758103884)
 FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowing you to live like a panda with convenience and ease. Whether you're craving comfort food from your favorite restaurant or dreading another grocery trip, FoodPanda has you covered. The app brings food and groceries right to your door, letting you focus on the things you love while we take care of your meals with the best deals. With a vast selection of restaurants, from big famous brands to tiny local favorites, FoodPanda satisfies all your cravings with exclusive discounts and promos for new users. FoodPanda stands out by offering a user-friendly experience where you can quickly reorder your favorite meals, explore personalized offers, and enjoy exclusive deals. Our technology is designed to cater to your preferences, making your food and grocery shopping experience as seamless and enjoyable as possible.
@@ -42,17 +42,17 @@ FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowin
   <img 
     src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda1.PNG"
     width="230" 
-    title="Personal dashboard"
+    title="Home"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda2.PNG" 
     width="230"
-    title="Business dashboard"
+    title="Order tracking"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda3.PNG" 
     width="230"
-    title="Pay your bills"
+    title="Pick-up"
     >
 </p>
 
@@ -64,3 +64,35 @@ FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowin
 
 ### Technologies
 `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `VIPER` `Github Actions` `Modular architecture`
+
+# [YAP – Your Digital Banking App](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
+YAP redefines digital banking, offering a seamless and feature-rich experience. Users can sign up in just 30 seconds to access a digital banking account with no hidden fees, no minimum balance, and no paperwork. YAP provides comprehensive money management tools, including spending analytics, virtual cards, and a Mastercard debit card. Users can enjoy multi-currency support, bill splitting, local and international transfers, QR payments, and bill payments. The app offers customizable card designs and exclusive perks, along with robust security measures to protect user funds. YAP's user-friendly interface includes card controls, instant fee-free transfers within the YAP network, and detailed spending analytics. With 24/7 accessibility and competitive international transfer rates, YAP ensures effortless money management and secure digital banking, making it an all-in-one solution for modern financial needs.
+
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/yap1.webp"
+    width="230" 
+    title="Card"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/yap2.webp" 
+    width="230"
+    title="Analytics"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/yap3.webp" 
+    width="230"
+    title="Home"
+    >
+</p>
+
+### Contributions
+- Led the development of the YAP iOS mobile app, which reached over a million customers within its first year of launch and began processing millions of transactions each month.
+- Started the iOS project from ground up, creating a modular architecture with MVVM-C and RxSwift. This maintained domain boundaries and enabled teams to work independently in different features.
+- Developed an in-house SDK for KYC using iOS Core ML and Amazon ML API, eliminating third-party dependencies and significantly reducing operational costs.
+- Trained machine learning models using Apple CoreML for detecting and scanning identity documents, resulting in a 60% improvement in feature quality, and a significant reduction in operational cost.
+- Introduced unit tests into the development cycle, which played a key role maintaining product quality as both the product and team scaled.
+
+### Technologies
+`Swift` `MVVM (Model View View-Model)` `RxSwift` `Modular architecture` `Core ML` `Machine Learning`
+
