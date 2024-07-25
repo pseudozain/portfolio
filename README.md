@@ -100,17 +100,17 @@ Xpensie empowers you to take control of your finances with ease. This intuitive 
 
 <p align="center">
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie1.PNG"
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie1.webp"
     width="230" 
     title="Home"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie2.PNG" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie2.webp" 
     width="230"
     title="Analytics"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie3.PNG" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/xpensie3.webp" 
     width="230"
     title="Add expense"
     >
