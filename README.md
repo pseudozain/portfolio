@@ -39,17 +39,17 @@ FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowin
 
 <p align="center">
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda1.PNG"
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda1.webp"
     width="230" 
     title="Home"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda2.PNG" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda2.webp" 
     width="230"
     title="Order tracking"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda3.PNG" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/foodpanda3.webp" 
     width="230"
     title="Pick-up"
     >
@@ -79,7 +79,7 @@ YAP redefines digital banking, offering a seamless and feature-rich experience. 
     title="Analytics"
     >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/yap4.webp" 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/yap3.webp" 
     width="230"
     title="Home"
     >
