@@ -1,55 +1,6 @@
 # About
 I'm a mobile Engineer with 12+ years of experience. Began my career as an iOS engineer and have since expanded to deliver cross-platform solutions across iOS and Android. I have built and shipped products in fintech, e-commerce, and classifieds, serving millions of users across Pakistan, the UAE, Egypt, and the wider MENA region. I'm experienced in modular architectures such as MVVM and VIPER, CI/CD automation, and test-driven development.
 
-# [OLX Pakistan](https://apps.apple.com/pk/app/olx-pakistan-online-shopping/id1551315538) & [Dubizzle Egypt](https://apps.apple.com/eg/app/dubizzle-eg-olx/id1582817937)
-OLX Pakistan and Dubizzle Egypt are the leading classifieds marketplaces in their countries, powered by a single shared codebase that also ships as separate apps across the MENA region, including KSA, Qatar, Oman, Kuwait, Bahrain, and Jordan. Together they serve millions of users, with over 30 million downloads and listings across categories such as vehicles, real estate, electronics, and jobs. The apps let users list items for sale in seconds, chat with buyers and sellers to negotiate deals, and get personalized alerts and recommendations.
-
-<p align="center">
-  <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx1.webp"
-    width="230" 
-    title="Home"
-    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx2.webp" 
-    width="230"
-    title="Browse listings"
-    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx3.webp" 
-    width="230"
-    title="Motors and Property"
-    >
-</p>
-
-<p align="center">
-  <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/dubizzle1.webp"
-    width="230" 
-    title="Dubizzle home"
-    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/dubizzle2.webp" 
-    width="230"
-    title="Browse Motors"
-    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github.com/pseudozain/portfolio/blob/master/Images/dubizzle3.webp" 
-    width="230"
-    title="Browse Properties"
-    >
-</p>
-
-### Contributions
-- Working as the lead engineer on the project, driving technical direction and overseeing feature delivery across the team.
-- Built the iOS app from the ground up as a single codebase powering OLX Pakistan, Dubizzle Egypt, and separate apps across six more MENA markets, establishing a modular architecture with MVVM and flow controllers that maintains clear domain boundaries and enables teams to work independently across features.
-- Drove app engineering metrics for the native rewrite, achieving a 30% reduction in app launch time and a 40% reduction in hang rate compared to the legacy React Native app.
-- Automated CI/CD and team workflows using GitHub Actions, Xcode Cloud, and Slack integrations, streamlining builds, releases, and developer communication.
-- Automated analytics using Firebase Cloud Functions and built scripts to detect anomalies in app metrics, enabling the team to catch issues early without manual monitoring.
-
-### Technologies
-`Swift` `MVVM (Model View View-Model)` `Flow Controller` `Modular architecture` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Github Actions` `Xcode Cloud` `Firebase Cloud Functions`
-
 # [SadaPay: Money made simple](https://apps.apple.com/pk/app/sadapay-money-made-simple/id1543848524)
 SadaPay is a digital wallet with a Mastercard debit card that lets users spend, send, and request money with zero fees, including fee-free Raast transfers and payments to over 900 billers. Its SadaBiz account helps Pakistani freelancers receive international payments at the best exchange rates, all secured with biometrics, encryption, and numberless cards.
 
@@ -114,6 +65,73 @@ foodpanda delivers food and groceries to your door from a vast selection of rest
 ### Technologies
 `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `VIPER` `Github Actions` `Modular architecture`
 
+# [OLX Pakistan](https://apps.apple.com/pk/app/olx-pakistan-online-shopping/id1551315538) & [Dubizzle](https://apps.apple.com/eg/app/dubizzle-eg-olx/id1582817937)
+OLX Pakistan and Dubizzle Egypt are the leading classifieds marketplaces in their countries, powered by a single shared codebase that also ships as separate apps across the MENA region, including KSA, Qatar, Oman, Kuwait, Bahrain, and Jordan. Together they serve millions of users, with over 30 million downloads and listings across categories such as vehicles, real estate, electronics, and jobs. The apps let users list items for sale in seconds, chat with buyers and sellers to negotiate deals, and get personalized alerts and recommendations.
+
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx1.webp"
+    width="180" 
+    title="OLX home"
+    >&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx2.webp" 
+    width="180"
+    title="OLX browse listings"
+    >&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/dubizzle1.webp"
+    width="180" 
+    title="Dubizzle home"
+    >&nbsp;&nbsp;
+  <img
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/dubizzle2.webp" 
+    width="180"
+    title="Dubizzle Motors"
+    >
+</p>
+
+### Contributions
+- Working as the lead engineer on the project, driving technical direction and overseeing feature delivery across the team.
+- Built the iOS app from the ground up as a single codebase powering OLX Pakistan, Dubizzle Egypt, and separate apps across six more MENA markets, establishing a modular architecture with MVVM and flow controllers that maintains clear domain boundaries and enables teams to work independently across features.
+- Drove app engineering metrics for the native rewrite, achieving a 30% reduction in app launch time and a 40% reduction in hang rate compared to the legacy React Native app.
+- Automated CI/CD and team workflows using GitHub Actions, Xcode Cloud, and Slack integrations, streamlining builds, releases, and developer communication.
+- Automated analytics using Firebase Cloud Functions and built scripts to detect anomalies in app metrics, enabling the team to catch issues early without manual monitoring.
+
+### Technologies
+`Swift` `MVVM (Model View View-Model)` `Flow Controller` `Modular architecture` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Github Actions` `Xcode Cloud` `Firebase Cloud Functions`
+
+# [Hatla2ee](https://apps.apple.com/eg/app/hatla2ee/id1272125275)
+Hatla2ee is a marketplace for buying and selling new and used cars across seven countries in the MENA region, including Egypt, the UAE, Saudi Arabia, Jordan, Oman, Kuwait, and Qatar. The app offers free car listings, advanced search filters, price tracking and market data, and automatic alerts for saved searches, all in a bilingual Arabic and English interface.
+
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/hatla2ee1.webp"
+    width="180" 
+    title="Home"
+    >&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/hatla2ee2.webp" 
+    width="180"
+    title="Search results"
+    >&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/hatla2ee3.webp"
+    width="180" 
+    title="Price, specs and features"
+    >
+</p>
+
+### Contributions
+- Working as the lead engineer on the project, driving technical direction and overseeing feature delivery across the team.
+- Built the iOS app from the ground up, establishing a modular architecture with MVVM and flow controllers that maintains clear domain boundaries and enables teams to work independently across features.
+- Drove app engineering metrics, achieving significant reductions in app launch time and hang rate compared to the legacy app.
+- Automated CI/CD and team workflows using GitHub Actions, Xcode Cloud, and Slack integrations, streamlining builds, releases, and developer communication.
+- Automated analytics using Firebase Cloud Functions and built scripts to detect anomalies in app metrics, enabling the team to catch issues early without manual monitoring.
+
+### Technologies
+`Swift` `MVVM (Model View View-Model)` `Flow Controller` `Modular architecture` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Github Actions` `Xcode Cloud` `Firebase Cloud Functions`
+
 # [YAP – Your Digital Banking App](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
 YAP is a digital banking app offering a 30-second signup with no hidden fees, no minimum balance, and no paperwork. It provides a Mastercard debit card, virtual cards, spending analytics, multi-currency support, and local and international transfers — all with robust security and 24/7 accessibility.
 
@@ -174,4 +192,3 @@ Xpensie is an expense management app for creating budgets and sub-budgets, track
 
 ### Technologies
 `Swift` `MVVM (Model View View-Model)` `CoreData` `CloudKit` `Modular architecture` `Unit testing` `Continuous Integration (CI)` `Continuous Delivery (CD)`
-
