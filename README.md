@@ -1,4 +1,5 @@
-Mobile engineer with over 10 years of experience building high-performance apps using VIPER and MVVM architectures. Expert in modular design, CI/CD automation, and unit and integration testing, with a strong focus on scalable, maintainable, and reliable mobile solutions.
+# About
+I'm a mobile Engineer with 12+ years of experience. Began my career as an iOS engineer and have since expanded to deliver cross-platform solutions across iOS and Android. I have built and shipped products in fintech, e-commerce, and classifieds, serving millions of users across Pakistan, the UAE, Egypt, and the wider MENA region. I'm experienced in modular architectures such as MVVM and VIPER, CI/CD automation, and test-driven development.
 
 # [SadaPay: Money made simple](https://apps.apple.com/pk/app/sadapay-money-made-simple/id1543848524)
 SadaPay is a digital wallet with a Mastercard debit card that lets users spend, send, and request money with zero fees, including fee-free Raast transfers and payments to over 900 billers. Its SadaBiz account helps Pakistani freelancers receive international payments at the best exchange rates, all secured with biometrics, encryption, and numberless cards.
