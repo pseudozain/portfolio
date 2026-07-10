@@ -1,6 +1,37 @@
 # About
 I'm a mobile Engineer with 12+ years of experience. Began my career as an iOS engineer and have since expanded to deliver cross-platform solutions across iOS and Android. I have built and shipped products in fintech, e-commerce, and classifieds, serving millions of users across Pakistan, the UAE, Egypt, and the wider MENA region. I'm experienced in modular architectures such as MVVM and VIPER, CI/CD automation, and test-driven development.
 
+# [OLX Pakistan – Online Shopping](https://apps.apple.com/pk/app/olx-pakistan-online-shopping/id1551315538)
+OLX Pakistan is the country's largest classifieds marketplace, with over 30 million downloads and 3 million listings across categories such as vehicles, real estate, electronics, and jobs. The app lets users list items for sale in seconds, chat with buyers and sellers to negotiate deals, and get personalized alerts and recommendations.
+
+<p align="center">
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx1.webp"
+    width="230" 
+    title="Home"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx2.webp" 
+    width="230"
+    title="Browse listings"
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github.com/pseudozain/portfolio/blob/master/Images/olx3.webp" 
+    width="230"
+    title="Motors and Property"
+    >
+</p>
+
+### Contributions
+- Working as the lead engineer on the project, driving technical direction and overseeing feature delivery across the team.
+- Built the iOS app from the ground up, establishing a modular architecture with MVVM and flow controllers that maintains clear domain boundaries and enables teams to work independently across features.
+- Drove app engineering metrics for the native rewrite, achieving a 30% reduction in app launch time and a 40% reduction in hang rate compared to the legacy React Native app.
+- Automated CI/CD and team workflows using GitHub Actions, Xcode Cloud, and Slack integrations, streamlining builds, releases, and developer communication.
+- Automated analytics using Firebase Cloud Functions and built scripts to detect anomalies in app metrics, enabling the team to catch issues early without manual monitoring.
+
+### Technologies
+`Swift` `MVVM (Model View View-Model)` `Flow Controller` `Modular architecture` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Github Actions` `Xcode Cloud` `Firebase Cloud Functions`
+
 # [SadaPay: Money made simple](https://apps.apple.com/pk/app/sadapay-money-made-simple/id1543848524)
 SadaPay is a digital wallet with a Mastercard debit card that lets users spend, send, and request money with zero fees, including fee-free Raast transfers and payments to over 900 billers. Its SadaBiz account helps Pakistani freelancers receive international payments at the best exchange rates, all secured with biometrics, encryption, and numberless cards.
 
