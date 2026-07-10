@@ -1,7 +1,7 @@
 Mobile engineer with over 10 years of experience building high-performance apps using VIPER and MVVM architectures. Expert in modular design, CI/CD automation, and unit and integration testing, with a strong focus on scalable, maintainable, and reliable mobile solutions.
 
 # [SadaPay: Money made simple](https://apps.apple.com/pk/app/sadapay-money-made-simple/id1543848524)
-SadaPay offers a seamless digital wallet and Mastercard virtual debit card experience, enabling users to manage money confidently without hidden fees. The application allows users to spend, send, and request payments with zero fees, and use their SadaPay card internationally both online and in-person with the lowest foreign exchange rates. Integrated with Raast, SadaPay facilitates fast, fee-free transactions using an account number or IBAN. Designed with freelancers in mind, the SadaBiz account enables Pakistani freelancers to receive international payments up to 900,000 PKR per month at the best exchange rates, with the option to retain earnings in USD. Users can transfer funds instantly without SMS or email OTPs, and pay over 900 billers, including utilities and phone networks, seamlessly. Security is paramount, with biometric access, encryption, and numberless cards ensuring user data and funds are safe. SadaPay also offers 24/7 in-app live chat support available in English, Urdu, and Emoji, along with easy account control options.
+SadaPay is a digital wallet with a Mastercard debit card that lets users spend, send, and request money with zero fees, including fee-free Raast transfers and payments to over 900 billers. Its SadaBiz account helps Pakistani freelancers receive international payments at the best exchange rates, all secured with biometrics, encryption, and numberless cards.
 
 <p align="center">
   <img 
@@ -35,7 +35,7 @@ SadaPay offers a seamless digital wallet and Mastercard virtual debit card exper
 `eXtreme Programming` `Test-Driven Development` `Ping Pong Programming` `Mobing` `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `MVVM (Model View View-Model)` `Github Actions` `Bitrise` `Modular architecture` `Kotling Multiplatform (KMM)`
 
 # [foodpanda: Food & Groceries](https://apps.apple.com/us/app/foodpanda-food-groceries/id758103884)
-FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowing you to live like a panda with convenience and ease. Whether you're craving comfort food from your favorite restaurant or dreading another grocery trip, FoodPanda has you covered. The app brings food and groceries right to your door, letting you focus on the things you love while we take care of your meals with the best deals. With a vast selection of restaurants, from big famous brands to tiny local favorites, FoodPanda satisfies all your cravings with exclusive discounts and promos for new users. FoodPanda stands out by offering a user-friendly experience where you can quickly reorder your favorite meals, explore personalized offers, and enjoy exclusive deals. Our technology is designed to cater to your preferences, making your food and grocery shopping experience as seamless and enjoyable as possible.
+foodpanda delivers food and groceries to your door from a vast selection of restaurants and stores, from famous brands to local favorites. The app offers quick reordering, personalized offers, and exclusive deals for a seamless ordering experience.
 
 <p align="center">
   <img 
@@ -65,7 +65,7 @@ FoodPanda revolutionizes the way you enjoy meals and shop for groceries, allowin
 `Continuous Integration (CI)` `Continuous Delivery (CD)` `Unit Testing` `UI Testing` `Swift` `VIPER` `Github Actions` `Modular architecture`
 
 # [YAP – Your Digital Banking App](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
-YAP redefines digital banking, offering a seamless and feature-rich experience. Users can sign up in just 30 seconds to access a digital banking account with no hidden fees, no minimum balance, and no paperwork. YAP provides comprehensive money management tools, including spending analytics, virtual cards, and a Mastercard debit card. Users can enjoy multi-currency support, bill splitting, local and international transfers, QR payments, and bill payments. The app offers customizable card designs and exclusive perks, along with robust security measures to protect user funds. YAP's user-friendly interface includes card controls, instant fee-free transfers within the YAP network, and detailed spending analytics. With 24/7 accessibility and competitive international transfer rates, YAP ensures effortless money management and secure digital banking, making it an all-in-one solution for modern financial needs.
+YAP is a digital banking app offering a 30-second signup with no hidden fees, no minimum balance, and no paperwork. It provides a Mastercard debit card, virtual cards, spending analytics, multi-currency support, and local and international transfers — all with robust security and 24/7 accessibility.
 
 <p align="center">
   <img 
@@ -96,7 +96,7 @@ YAP redefines digital banking, offering a seamless and feature-rich experience. 
 `Swift` `MVVM (Model View View-Model)` `RxSwift` `Modular architecture` `Core ML` `Machine Learning`
 
 # [Xpensie: Manage your expenses](https://apps.apple.com/us/app/xpensie-manage-your-expenses/id6523422047)
-Xpensie empowers you to take control of your finances with ease. This intuitive expense management solution allows you to manage your budgets, track expenses, and gain valuable insights with comprehensive analytics. With Xpensie, you can create main budgets and detailed sub-budgets, customize expense categories to fit your unique spending habits, and visualize your expenses with detailed bar and pie charts. The flexible date range feature lets you analyze your spending over different periods, such as weekly, monthly, or yearly. Designed with a user-friendly interface, Xpensie ensures managing your finances is simple and stress-free, helping you save smarter and understand your spending patterns more effectively.
+Xpensie is an expense management app for creating budgets and sub-budgets, tracking expenses with custom categories, and visualizing spending through bar and pie charts. Flexible date ranges let you analyze spending weekly, monthly, or yearly.
 
 <p align="center">
   <img 
